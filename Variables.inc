@@ -1,0 +1,4 @@
+ShopName=YourShopName
+ShopURL=https://yoururl.com
+Consumer_Key=woocommerce_api_key
+Consumer_Secret=woocommerce_api_secret
