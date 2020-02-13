@@ -5,11 +5,11 @@ I've created this simple skin for Rainmeter to show the sales report of a WooCom
 *Other skin used: [Mond by hiphopium](https://www.deviantart.com/hiphopium/art/Mond-762455575)*
 
 # Setup
-1. git clone or download release and copy to your **Skins** folder.
+1. Git clone or download release and copy to your **Skins** folder.
 2. Sign in to your WooCommerce Dashboard
 3. Go to **WooCommerce->Settings->Advanced->Rest-API**
-4. Click on **create key**
-5. Give it a name like rainmeter and make it read-only
-6. Copy your key and secret to the **Variables.inc** replacing **woocommerce_api_key** and **woocommerce_api_secret** respectively
-7. In Variables.inc also give your shop a name and add the base URL without a / at the end.
-8. Load the skin and customize to your hearts content.
+4. Click on `create key`
+5. Give it a name like `rainmeter` and make it read-only
+6. Copy your key and secret to the `Variables.inc` replacing `woocommerce_api_key` and `woocommerce_api_secret` respectively
+7. In Variables.inc also give your shop a name and add the base URL without a "`/`" at the end.
+8. Load the skin and customize to your hearts content!
