@@ -13,3 +13,9 @@ I've created this simple skin for Rainmeter to show the sales report of a WooCom
 6. Copy your key and secret to the `Variables.inc` replacing `woocommerce_api_key` and `woocommerce_api_secret` respectively
 7. In Variables.inc also give your shop a name and add the base URL without a "`/`" at the end.
 8. Load the skin and customize to your hearts content!
+
+# ToDo
+1. Translations
+2. More auto formatted currencies
+
+**Pull requests, suggestions, feature requests are very much welcome!**
